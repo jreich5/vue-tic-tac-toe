@@ -1,35 +1,14 @@
-# first-vue
+# Vue Tic-Tac-Toe App
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a simple frontend application with a playable Tic-Tac-Toe game. Key technologies used are:
 
-## Recommended IDE Setup
+- State management with [Pinia](https://pinia.vuejs.org/)
+- Routing with [Vue Router](https://router.vuejs.org/)
+- Tooling with [Vite](https://vitejs.dev/)
+- Styling with [Bulma](https://bulma.io/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Setup
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+1. Clone this project
+1. Run `npm install`
+1. Run `npm run dev` to start the application
